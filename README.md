@@ -1,2 +1,5 @@
 # hello-world
-This is the tutorial of how to use GitHub.
+
+Hello! 
+
+My name is Anzelika and I am a second year criminology student in Queens University, Belfast. 
